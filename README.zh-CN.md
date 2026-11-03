@@ -28,6 +28,15 @@
 
 完整的人设、两种形态（Q 版和成年版）、性格、小故事和口头禅见 **[STORY.zh-CN.md](STORY.zh-CN.md)**。
 
+## 成年版
+
+她的本体：175 cm 的文学系大学生，在旧书店打工，向往古典的书写与艺术。现代街装配内衬是手稿的斗篷式长风衣，腰链挂着火漆印和墨水瓶，抱着铜扣「魔导书」，戴着其实不需要的眼镜。文件在 [`art/adult/`](art/adult) 和 [`cutouts/adult/`](cutouts/adult)。
+
+<p align="center"><img src="art/adult/front.png" width="320" alt="成年版 Textus 娘"></p>
+
+![成年版三视图](art/adult/turnaround.png)
+![成年版表情](art/adult/expressions.png)
+
 ## 配色
 
 | | | 色号 |

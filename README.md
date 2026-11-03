@@ -28,6 +28,15 @@ This repository holds her character sheet and everything made from it - for post
 
 Her full profile, two forms (chibi and adult), personality, story and catchphrases: **[STORY.md](STORY.md)**.
 
+## Adult form
+
+Her true self: a 175 cm literature student who works in an old bookshop and longs for classical writing and art - streetwear with a manuscript-lined cape coat, a wax seal and an ink bottle on a chain, a brass-clasped grimoire, and glasses she doesn't need. Files in [`art/adult/`](art/adult) and [`cutouts/adult/`](cutouts/adult).
+
+<p align="center"><img src="art/adult/front.png" width="320" alt="Adult Textus-chan"></p>
+
+![Adult turnaround](art/adult/turnaround.png)
+![Adult expressions](art/adult/expressions.png)
+
 ## Colours
 
 | | | Hex |
