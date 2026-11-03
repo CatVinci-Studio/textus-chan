@@ -26,6 +26,8 @@ This repository holds her character sheet and everything made from it - for post
 - **Outfit:** a cream academic capelet with faint page lines, an ink-navy bow with a gold nib brooch, a white blouse, an ink-navy pleated skirt hemmed with manuscript-paper squares, a little ink bottle and a bookmark at her waist, white frilled socks and ink-navy Mary Janes.
 - **Always with her:** a quill fountain pen taller than she is - the one in Textus's icon.
 
+Her full profile, two forms (chibi and adult), personality, story and catchphrases: **[STORY.md](STORY.md)**.
+
 ## Colours
 
 | | | Hex |
