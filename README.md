@@ -52,8 +52,10 @@ Her true self: a 175 cm literature student who works in an old bookshop and long
 |---|---|
 | [`art/`](art) | The sheets: `front`, `turnaround` (front, side, back), `expressions`, `outfit`, `props`, `sprites` (desk-pet poses), `seasons`, `stickers`, `promo` (wide illustration with room for text). `art/transparent/` has each without its white background. |
 | [`cutouts/`](cutouts) | Single PNGs: 8 expressions, 8 poses, 8 stickers - transparent, and on white in `cutouts/white/`. The poses face right; `cutouts/left/` (and `cutouts/white/left/`) has the poses and stickers facing left. |
+| [`cutouts/feelings/`](cutouts/feelings) | 24 stickers with a short feeling written above her in Chinese (开心！, 嗯？, 冲呀！…): the poses, stickers and expressions, facing `right/` and `left/`, each at 512 and 240 px, transparent and on white (`-white`). |
 | [`banners/`](banners) | Ready-made covers: X header 1500×500, WeChat cover 900×383, RedNote cover 1242×1660, GitHub social preview 1280×640, Discord banner 960×540. |
 
+![Feelings](cutouts/feelings/preview.png)
 ![Turnaround](art/turnaround.png)
 ![Expressions](art/expressions.png)
 ![Seasons](art/seasons.png)

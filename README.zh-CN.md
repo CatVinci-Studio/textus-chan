@@ -52,8 +52,10 @@
 |---|---|
 | [`art/`](art) | 设定图：`front` 立绘、`turnaround` 三视图、`expressions` 表情、`outfit` 服装拆解、`props` 道具、`sprites` 桌宠动作、`seasons` 四季服装、`stickers` 贴纸、`promo` 横版宣传插画（左侧留白放文字）。`art/transparent/` 是去掉白底的版本。 |
 | [`cutouts/`](cutouts) | 单张 PNG：8 个表情、8 个动作、8 张贴纸；透明背景一套，白底一套在 `cutouts/white/`。动作都朝右；朝左的动作和贴纸在 `cutouts/left/`（白底在 `cutouts/white/left/`）。 |
+| [`cutouts/feelings/`](cutouts/feelings) | 带字表情包 24 张：头顶写着一句中文情绪（开心！、嗯？、冲呀！…），包括动作、贴纸和表情；`right/` 朝右、`left/` 朝左，各有 512 和 240 两种尺寸，透明底和白底（`-white`）。 |
 | [`banners/`](banners) | 做好的封面：X 横幅 1500×500、公众号封面 900×383、小红书封面 1242×1660、GitHub 预览图 1280×640、Discord 横幅 960×540。 |
 
+![带字表情包](cutouts/feelings/preview.png)
 ![三视图](art/turnaround.png)
 ![表情](art/expressions.png)
 ![四季服装](art/seasons.png)
