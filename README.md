@@ -51,7 +51,7 @@ Her true self: a 175 cm literature student who works in an old bookshop and long
 | Folder | What |
 |---|---|
 | [`art/`](art) | The sheets: `front`, `turnaround` (front, side, back), `expressions`, `outfit`, `props`, `sprites` (desk-pet poses), `seasons`, `stickers`, `promo` (wide illustration with room for text). `art/transparent/` has each without its white background. |
-| [`cutouts/`](cutouts) | Single PNGs: 8 expressions, 8 poses, 8 stickers - transparent, and on white in `cutouts/white/`. |
+| [`cutouts/`](cutouts) | Single PNGs: 8 expressions, 8 poses, 8 stickers - transparent, and on white in `cutouts/white/`. The poses face right; `cutouts/left/` (and `cutouts/white/left/`) has the poses and stickers facing left. |
 | [`banners/`](banners) | Ready-made covers: X header 1500×500, WeChat cover 900×383, RedNote cover 1242×1660, GitHub social preview 1280×640, Discord banner 960×540. |
 
 ![Turnaround](art/turnaround.png)

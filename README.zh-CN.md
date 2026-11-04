@@ -51,7 +51,7 @@
 | 文件夹 | 内容 |
 |---|---|
 | [`art/`](art) | 设定图：`front` 立绘、`turnaround` 三视图、`expressions` 表情、`outfit` 服装拆解、`props` 道具、`sprites` 桌宠动作、`seasons` 四季服装、`stickers` 贴纸、`promo` 横版宣传插画（左侧留白放文字）。`art/transparent/` 是去掉白底的版本。 |
-| [`cutouts/`](cutouts) | 单张 PNG：8 个表情、8 个动作、8 张贴纸；透明背景一套，白底一套在 `cutouts/white/`。 |
+| [`cutouts/`](cutouts) | 单张 PNG：8 个表情、8 个动作、8 张贴纸；透明背景一套，白底一套在 `cutouts/white/`。动作都朝右；朝左的动作和贴纸在 `cutouts/left/`（白底在 `cutouts/white/left/`）。 |
 | [`banners/`](banners) | 做好的封面：X 横幅 1500×500、公众号封面 900×383、小红书封面 1242×1660、GitHub 预览图 1280×640、Discord 横幅 960×540。 |
 
 ![三视图](art/turnaround.png)
