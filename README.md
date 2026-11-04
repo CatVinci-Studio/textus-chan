@@ -138,7 +138,7 @@ Her full profile, story and catchphrases: **[STORY.md](STORY.md)**.
 | [`art/seasons/`](art/seasons) | The four seasons one by one, at the same size, and `transparent/`. |
 | [`cutouts/`](cutouts) | Single PNGs: 8 expressions, 8 poses, 8 stickers - transparent, and on white in `cutouts/white/`. The poses face right; `cutouts/left/` (and `cutouts/white/left/`) has the poses and stickers facing left. Adult expressions in `cutouts/adult/`. |
 | [`cutouts/feelings/`](cutouts/feelings) | 24 stickers with a short feeling written above her in Chinese (开心！, 嗯？, 冲呀！…), facing `right/` and `left/`, each at 512 and 240 px, transparent and on white (`-white`). |
-| [`banners/`](banners) | Ready-made covers: X header 1500×500, WeChat cover 900×383, RedNote cover 1242×1660, GitHub social preview 1280×640, Discord banner 960×540. |
+| [`banners/`](banners) | Ready-made covers: X header 1500×500, WeChat cover 900×383, RedNote cover 1242×1660, GitHub social preview 1280×640, Discord banner 960×540, RedNote profile background 1600×900, and two 1536×1024 header sources (near and wide) with the prompt that made them. |
 
 ## Using her
 

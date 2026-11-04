@@ -138,7 +138,7 @@
 | [`art/seasons/`](art/seasons) | 四季服装单张，尺寸相同，另有 `transparent/`。 |
 | [`cutouts/`](cutouts) | 单张 PNG：8 个表情、8 个动作、8 张贴纸；透明背景一套，白底一套在 `cutouts/white/`。动作都朝右；朝左的动作和贴纸在 `cutouts/left/`（白底在 `cutouts/white/left/`）。成年版表情在 `cutouts/adult/`。 |
 | [`cutouts/feelings/`](cutouts/feelings) | 带字表情包 24 张：头顶写着一句中文情绪（开心！、嗯？、冲呀！…）；`right/` 朝右、`left/` 朝左，各有 512 和 240 两种尺寸，透明底和白底（`-white`）。 |
-| [`banners/`](banners) | 做好的封面：X 横幅 1500×500、公众号封面 900×383、小红书封面 1242×1660、GitHub 预览图 1280×640、Discord 横幅 960×540。 |
+| [`banners/`](banners) | 做好的封面：X 横幅 1500×500、公众号封面 900×383、小红书封面 1242×1660、GitHub 预览图 1280×640、Discord 横幅 960×540、小红书主页背景 1600×900，以及两张 1536×1024 的横幅原图（近景、远景）和生成它们的提示词。 |
 
 ## 使用规范
 
