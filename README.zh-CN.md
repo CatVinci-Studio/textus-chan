@@ -1,41 +1,124 @@
 <div align="center">
 
-# Textus 娘
+# 墨羽
+
+**Textus 的看板娘**
 
 [English](README.md) · **简体中文**
 
 [![授权: CC BY-NC 4.0](https://img.shields.io/badge/%E6%8E%88%E6%9D%83-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/deed.zh-hans)
-[![Textus](https://img.shields.io/badge/%E5%90%89%E7%A5%A5%E7%89%A9-Textus-1d2b3a)](https://textus.catvinci.com)
+[![Textus](https://img.shields.io/badge/%E7%9C%8B%E6%9D%BF%E5%A8%98-Textus-1d2b3a)](https://textus.catvinci.com)
 [![CatVinci Studio](https://img.shields.io/badge/%E5%87%BA%E5%93%81-CatVinci%20Studio-a88d5e)](https://catvinci.com)
 ![格式](https://img.shields.io/badge/%E6%A0%BC%E5%BC%8F-PNG%20%C2%B7%20%E9%80%8F%E6%98%8E%E8%83%8C%E6%99%AF-success)
 [![GitHub stars](https://img.shields.io/github/stars/CatVinci-Studio/textus-chan?style=social)](https://github.com/CatVinci-Studio/textus-chan/stargazers)
 
-[Textus](https://textus.catvinci.com) 的吉祥物：一个用 Textus 图标里那支羽毛钢笔写字的猫娘。
-
-![Textus 娘](art/front.png)
+[Textus](https://textus.catvinci.com) 的看板娘墨羽：安静认真又有一点中二的图书管理员。
 
 </div>
+
+<table>
+  <tr>
+    <th width="50%">Q 版 · 放松时</th>
+    <th width="50%">成年版 · 本体</th>
+  </tr>
+  <tr>
+    <td><img src="art/front.png" width="100%" alt="Q 版墨羽"></td>
+    <td><img src="art/adult/front.png" width="100%" alt="成年版墨羽"></td>
+  </tr>
+  <tr>
+    <td>回到家放松时的 Q 版形象，桌宠就是她。</td>
+    <td>本体：向往古典书写与艺术的文学系大学生。</td>
+  </tr>
+</table>
 
 这里是她的设定和所有物料，宣传、封面、表情包、桌宠和周边都从这里取。
 
 ## 人设
 
-- **名字：** Textus 娘
-- **性格：** 安静认真、爱写字，偶尔犯困；你写得顺的时候她会偷偷开心。
-- **外形：** 墨蓝猫耳，猫尾尖是一滴墨；墨蓝长发，发梢散成羽枝；琥珀色眼睛；羽毛钢笔发饰。
-- **服装：** 米白书页纹学院风短斗篷、墨蓝蝴蝶结与金色笔尖胸针、白衬衫、裙摆带稿纸格的墨蓝百褶裙、腰间小墨水瓶和书签、白色荷叶边袜、墨蓝玛丽珍鞋。
-- **随身：** 一支比她还高的羽毛钢笔，就是 Textus 图标里那支。
+两种形态是同一个人。
 
-完整的人设、两种形态（Q 版和成年版）、性格、小故事和口头禅见 **[STORY.zh-CN.md](STORY.zh-CN.md)**。
+- **名字：** 墨羽，朋友叫她小墨。
+- **身份：** 175 cm 的文学系大学生，在旧书店打工。
+- **生日：** 7 月 8 日，Textus 第一次发布的日子。
+- **性格：** 安静认真，又有一点中二：笔记本是「魔导书」，钢笔是「Quill Textus」，相信写下来的事会成真。你写得顺的时候她会偷偷开心，卡住的时候她不催你，只给你递一杯茶。
+- **外形：** 墨蓝猫耳；猫尾尖是一滴墨；墨蓝长发，发梢散成羽枝；琥珀色眼睛；羽毛钢笔发饰。
+- **喜欢：** 羽毛笔、火漆印、羊皮纸、下雨天、旧书店、红茶、深夜写作。
+- **讨厌：** 没保存就关掉的文档、乱码、截稿日。
 
-## 成年版
+| | Q 版 | 成年版 |
+|---|---|---|
+| **服装** | 米白书页纹学院风短斗篷、墨蓝蝴蝶结与金色笔尖胸针、裙摆带稿纸格的墨蓝百褶裙、腰间小墨水瓶和书签、白色荷叶边袜、墨蓝玛丽珍鞋。 | 现代街装配内衬是手稿的斗篷式长风衣，腰链挂着火漆印和墨水瓶，戴着其实不需要的圆眼镜。 |
+| **随身** | 一支比她还高的羽毛钢笔，就是 Textus 图标里那支。 | 铜扣皮面笔记本，她的「魔导书」。 |
 
-她的本体：175 cm 的文学系大学生，在旧书店打工，向往古典的书写与艺术。现代街装配内衬是手稿的斗篷式长风衣，腰链挂着火漆印和墨水瓶，抱着铜扣「魔导书」，戴着其实不需要的眼镜。文件在 [`art/adult/`](art/adult) 和 [`cutouts/adult/`](cutouts/adult)。
+完整的人设、小故事和口头禅见 **[STORY.zh-CN.md](STORY.zh-CN.md)**。
 
-<p align="center"><img src="art/adult/front.png" width="320" alt="成年版 Textus 娘"></p>
+## 三视图与表情
 
-![成年版三视图](art/adult/turnaround.png)
-![成年版表情](art/adult/expressions.png)
+<table>
+  <tr>
+    <th width="50%">Q 版</th>
+    <th width="50%">成年版</th>
+  </tr>
+  <tr>
+    <td><img src="art/turnaround.png" width="100%" alt="Q 版三视图"></td>
+    <td><img src="art/adult/turnaround.png" width="100%" alt="成年版三视图"></td>
+  </tr>
+  <tr>
+    <td><img src="art/expressions.png" width="100%" alt="Q 版表情"></td>
+    <td><img src="art/adult/expressions.png" width="100%" alt="成年版表情"></td>
+  </tr>
+</table>
+
+## 四季服装
+
+<table>
+  <tr>
+    <th width="25%">春</th>
+    <th width="25%">夏</th>
+    <th width="25%">秋</th>
+    <th width="25%">冬</th>
+  </tr>
+  <tr>
+    <td><img src="art/seasons/spring.png" width="100%" alt="春"></td>
+    <td><img src="art/seasons/summer.png" width="100%" alt="夏"></td>
+    <td><img src="art/seasons/autumn.png" width="100%" alt="秋"></td>
+    <td><img src="art/seasons/winter.png" width="100%" alt="冬"></td>
+  </tr>
+</table>
+
+## 服装与道具
+
+<table>
+  <tr>
+    <th width="50%">服装拆解</th>
+    <th width="50%">道具</th>
+  </tr>
+  <tr>
+    <td><img src="art/outfit.png" width="100%" alt="服装拆解"></td>
+    <td><img src="art/props.png" width="100%" alt="道具"></td>
+  </tr>
+</table>
+
+## 表情包与动作
+
+<table>
+  <tr>
+    <th width="50%">贴纸</th>
+    <th width="50%">桌宠动作</th>
+  </tr>
+  <tr>
+    <td><img src="art/stickers.png" width="100%" alt="贴纸"></td>
+    <td><img src="art/sprites.png" width="100%" alt="桌宠动作"></td>
+  </tr>
+  <tr>
+    <th>带字表情包</th>
+    <th>宣传插画</th>
+  </tr>
+  <tr>
+    <td><img src="cutouts/feelings/preview.png" width="100%" alt="带字表情包"></td>
+    <td><img src="art/promo.png" width="100%" alt="宣传插画"></td>
+  </tr>
+</table>
 
 ## 配色
 
@@ -50,15 +133,12 @@
 
 | 文件夹 | 内容 |
 |---|---|
-| [`art/`](art) | 设定图：`front` 立绘、`turnaround` 三视图、`expressions` 表情、`outfit` 服装拆解、`props` 道具、`sprites` 桌宠动作、`seasons` 四季服装、`stickers` 贴纸、`promo` 横版宣传插画（左侧留白放文字）。`art/transparent/` 是去掉白底的版本。 |
-| [`cutouts/`](cutouts) | 单张 PNG：8 个表情、8 个动作、8 张贴纸；透明背景一套，白底一套在 `cutouts/white/`。动作都朝右；朝左的动作和贴纸在 `cutouts/left/`（白底在 `cutouts/white/left/`）。 |
-| [`cutouts/feelings/`](cutouts/feelings) | 带字表情包 24 张：头顶写着一句中文情绪（开心！、嗯？、冲呀！…），包括动作、贴纸和表情；`right/` 朝右、`left/` 朝左，各有 512 和 240 两种尺寸，透明底和白底（`-white`）。 |
+| [`art/`](art) | Q 版设定图：`front` 立绘、`turnaround` 三视图、`expressions` 表情、`outfit` 服装拆解、`props` 道具、`sprites` 桌宠动作、`seasons` 四季服装、`stickers` 贴纸、`promo` 横版宣传插画（留白放文字）。`art/transparent/` 是去掉白底的版本。 |
+| [`art/adult/`](art/adult) | 成年版设定图：`front`、`turnaround`、`expressions`，以及 `transparent/`。 |
+| [`art/seasons/`](art/seasons) | 四季服装单张，尺寸相同，另有 `transparent/`。 |
+| [`cutouts/`](cutouts) | 单张 PNG：8 个表情、8 个动作、8 张贴纸；透明背景一套，白底一套在 `cutouts/white/`。动作都朝右；朝左的动作和贴纸在 `cutouts/left/`（白底在 `cutouts/white/left/`）。成年版表情在 `cutouts/adult/`。 |
+| [`cutouts/feelings/`](cutouts/feelings) | 带字表情包 24 张：头顶写着一句中文情绪（开心！、嗯？、冲呀！…）；`right/` 朝右、`left/` 朝左，各有 512 和 240 两种尺寸，透明底和白底（`-white`）。 |
 | [`banners/`](banners) | 做好的封面：X 横幅 1500×500、公众号封面 900×383、小红书封面 1242×1660、GitHub 预览图 1280×640、Discord 横幅 960×540。 |
-
-![带字表情包](cutouts/feelings/preview.png)
-![三视图](art/turnaround.png)
-![表情](art/expressions.png)
-![四季服装](art/seasons.png)
 
 ## 使用规范
 

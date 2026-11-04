@@ -1,11 +1,11 @@
-# Textus-chan: who she is
+# Moyu: who she is
 
 **English** · [简体中文](STORY.zh-CN.md)
 
 ## Profile
 
-- **Name:** Textus - Latin for "woven cloth", and the root of the word *text*: writing is woven, stitch by stitch.
-- **Nickname:** Mo ("ink"). She would rather be called Moyu, "ink feather", which sounds more classical to her.
+- **Name:** Moyu 墨羽, "ink feather" - the mascot of Textus, whose name is Latin for "woven cloth" and the root of the word *text*: writing is woven, stitch by stitch.
+- **Nickname:** Mo 小墨 ("ink"), which her friends use.
 - **Birthday:** July 8, the day Textus was first released.
 - **Height:** 175 cm as an adult. Tall enough to reach the top shelf of old books at the shop, so the owner keeps asking her to carry them; she insists it is her "duty as knight of the forbidden section". Her chibi self fits in your palm.
 - **Likes:** quill pens, wax seals, parchment, rainy days, the smell of old bookshops, black tea, writing late at night, Leonardo's notebooks.
@@ -13,7 +13,7 @@
 
 ## Two forms
 
-- **Chibi (her working form):** the little cat girl who lives in Textus and keeps you company while you write - the one in the desk pet. She says little, doodles quietly beside you, and dozes off hugging her quill when she gets sleepy.
+- **Chibi (at ease):** how she looks at home, relaxed - the little cat girl in the desk pet, keeping you company while you write. She says little, doodles quietly beside you, and dozes off hugging her quill when she gets sleepy.
 - **Adult (her true self):** a literature student of 19 in a modern city, working part-time in an old bookshop. She longs for the writing and art of classical Europe, so her everyday streetwear always carries something old: a long cape coat lined with manuscript script, a wax seal, an ink bottle, a brass-clasped leather notebook, and round glasses she doesn't actually need.
 
 ## Personality
@@ -49,4 +49,4 @@ When your writing flows she is quietly happy, and the ink drop at her tail's tip
 
 ## With the LLM-chan
 
-Textus is a library, and she is its librarian. Switching models in Textus AI is like inviting a guest: DeepSeek-chan, Claude-chan, GPT-chan and the others take turns helping you write, and Textus-chan welcomes them. When no AI is on, it's just her by your side.
+Textus is a library, and she is its librarian. Switching models in Textus AI is like inviting a guest: DeepSeek-chan, Claude-chan, GPT-chan and the others take turns helping you write, and Moyu welcomes them. When no AI is on, it's just her by your side.
