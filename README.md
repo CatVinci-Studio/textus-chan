@@ -7,12 +7,12 @@
 **English** · [简体中文](README.zh-CN.md)
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Textus](https://img.shields.io/badge/mascot%20of-Textus-1d2b3a)](https://textus.catvinci.com)
+[![Textus](https://img.shields.io/badge/mascot%20of-Textus-1d2b3a)](https://textus.md)
 [![CatVinci Studio](https://img.shields.io/badge/by-CatVinci%20Studio-a88d5e)](https://catvinci.com)
 ![Format](https://img.shields.io/badge/format-PNG%20%C2%B7%20transparent-success)
 [![GitHub stars](https://img.shields.io/github/stars/CatVinci-Studio/textus-chan?style=flat&logo=github&label=stars&color=a88d5e)](https://github.com/CatVinci-Studio/textus-chan/stargazers)
 
-Moyu ("ink feather") is the mascot of [Textus](https://textus.catvinci.com), the Markdown editor and knowledge tool by [CatVinci Studio](https://catvinci.com): a quiet, earnest and slightly chuunibyou librarian.
+Moyu ("ink feather") is the mascot of [Textus](https://textus.md), the Markdown editor and knowledge tool by [CatVinci Studio](https://catvinci.com): a quiet, earnest and slightly chuunibyou librarian.
 
 </div>
 
