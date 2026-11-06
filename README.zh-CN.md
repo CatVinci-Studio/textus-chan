@@ -10,7 +10,7 @@
 [![Textus](https://img.shields.io/badge/%E7%9C%8B%E6%9D%BF%E5%A8%98-Textus-1d2b3a)](https://textus.catvinci.com)
 [![CatVinci Studio](https://img.shields.io/badge/%E5%87%BA%E5%93%81-CatVinci%20Studio-a88d5e)](https://catvinci.com)
 ![格式](https://img.shields.io/badge/%E6%A0%BC%E5%BC%8F-PNG%20%C2%B7%20%E9%80%8F%E6%98%8E%E8%83%8C%E6%99%AF-success)
-[![GitHub stars](https://img.shields.io/github/stars/CatVinci-Studio/textus-chan?style=social)](https://github.com/CatVinci-Studio/textus-chan/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/CatVinci-Studio/textus-chan?style=flat&logo=github&label=stars&color=a88d5e)](https://github.com/CatVinci-Studio/textus-chan/stargazers)
 
 [Textus](https://textus.catvinci.com) 的看板娘墨羽：安静认真又有一点中二的图书管理员。
 
